@@ -1,3 +1,5 @@
+# Instruction to submit your `subdomains.txt` :
+   * `curl --request PUT --upload-file subdomains.txt "YOUR_UNIQUE_SIGNED_URL"` 
 # Reconaacharya Challenge Defcon 31: Rules of the game!
 1. **Challenge Submission**: You would have received an email instructions on your registered email to submit the valid submissions. Use your unique AWS S3 signed URL to upload your submissions.
 2. **File Submission Rules:**
